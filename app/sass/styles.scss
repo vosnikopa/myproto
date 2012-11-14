@@ -1,15 +1,16 @@
 @import "compass";
-@import "custom";
 
 // I gather this file is a starting point for the project.
-//@import "bootstrap";
+//@import "compass_twitter_bootstrap";
+@import "compass_twitter_bootstrap_awesome";
 
 // Include responsive Bootstrap styles
-//@import "bootstrap-responsive";
+@import "compass_twitter_bootstrap_responsive";
 
 @import "compass/css3";
 @import "compass/layout";
 
 // Include custom styles
+@import "custom";
 
 

@@ -67,3 +67,40 @@
 2012-11-14 17:21:06 overwrite public/css/styles.css 
 2012-11-14 17:28:29 overwrite public/css/styles.css 
 2012-11-14 17:28:48 overwrite public/css/styles.css 
+2012-11-14 17:35:29 identical public/css/styles.css 
+2012-11-14 17:37:06 overwrite public/css/styles.css 
+2012-11-14 17:37:15 overwrite public/css/styles.css 
+2012-11-14 17:47:10 overwrite public/css/styles.css 
+2012-11-14 17:51:18     error app/sass/styles.scss (Line 8: File to import not found or unreadable: compass_twitter_bootstrap-responsive.
+Load paths:
+  /Users/me/Dropbox/Apps/site44/myproto.site44.com/app/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2012-11-14 17:51:18 overwrite public/css/styles.css 
+2012-11-14 17:51:39     error app/sass/styles.scss (Line 8: File to import not found or unreadable: compass_twitter_bootstrap-responsive.
+Load paths:
+  /Users/me/Dropbox/Apps/site44/myproto.site44.com/app/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2012-11-14 17:51:39 identical public/css/styles.css 
+2012-11-14 17:52:55 overwrite public/css/styles.css 
+2012-11-14 17:55:32 overwrite public/css/styles.css 
+2012-11-14 17:56:12 overwrite public/css/styles.css 
