@@ -1,1 +1,69 @@
 2012-11-14 15:46:31 overwrite public/css/styles.css 
+2012-11-14 16:02:10 identical public/css/styles.css 
+2012-11-14 16:05:09 identical public/css/styles.css 
+2012-11-14 16:15:59 overwrite public/css/styles.css 
+2012-11-14 16:16:37 overwrite public/css/styles.css 
+2012-11-14 16:18:03 overwrite public/css/styles.css 
+2012-11-14 16:21:48 overwrite public/css/styles.css 
+2012-11-14 16:23:46 overwrite public/css/styles.css 
+2012-11-14 16:30:05     error app/sass/styles.scss (Line 13 of app/sass/_custom.scss: Invalid CSS after "...ransparent 1px)": expected ")", was ";")
+2012-11-14 16:30:05 overwrite public/css/styles.css 
+2012-11-14 16:31:31     error app/sass/styles.scss (Line 8 of app/sass/_custom.scss: Invalid CSS after "...ransparent 2px)": expected ")", was ";")
+2012-11-14 16:31:31 overwrite public/css/styles.css 
+2012-11-14 16:31:37     error app/sass/styles.scss (Line 8 of app/sass/_custom.scss: Invalid CSS after "...ransparent 2px)": expected ")", was ";")
+2012-11-14 16:31:37 identical public/css/styles.css 
+2012-11-14 16:35:44    create public/css/styles.css 
+2012-11-14 16:35:53 identical public/css/styles.css 
+2012-11-14 16:36:29     error app/sass/styles.scss (Line 12 of app/sass/_custom.scss: Invalid CSS after "}min-height:": expected pseudoclass or pseudoelement, was " 100%;")
+2012-11-14 16:36:29 overwrite public/css/styles.css 
+2012-11-14 16:36:37 overwrite public/css/styles.css 
+2012-11-14 16:36:50 identical public/css/styles.css 
+2012-11-14 16:37:49 overwrite public/css/styles.css 
+2012-11-14 16:38:26     error app/sass/styles.scss (Line 3 of app/sass/_custom.scss: Invalid CSS after "... "compass/css3"": expected selector or at-rule, was ".body {")
+2012-11-14 16:38:26 overwrite public/css/styles.css 
+2012-11-14 16:38:54 overwrite public/css/styles.css 
+2012-11-14 16:40:07 overwrite public/css/styles.css 
+2012-11-14 16:40:42 identical public/css/styles.css 
+2012-11-14 16:41:23 overwrite public/css/styles.css 
+2012-11-14 16:42:41 overwrite public/css/styles.css 
+2012-11-14 16:43:05 overwrite public/css/styles.css 
+2012-11-14 16:43:39     error app/sass/styles.scss (Line 7 of app/sass/_custom.scss: Invalid CSS after "background-image: ": expected expression (e.g. 1px, bold), was "@include linear...")
+2012-11-14 16:43:39 overwrite public/css/styles.css 
+2012-11-14 16:44:32     error app/sass/styles.scss (Line 7 of app/sass/_custom.scss: Invalid CSS after "...ground-image:  ": expected expression (e.g. 1px, bold), was "@include linear...")
+2012-11-14 16:44:32 overwrite public/css/styles.css 
+2012-11-14 16:45:08     error app/sass/styles.scss (Line 7 of app/sass/_custom.scss: Invalid CSS after "background: ": expected expression (e.g. 1px, bold), was "@include linear...")
+2012-11-14 16:45:08 overwrite public/css/styles.css 
+2012-11-14 16:46:39     error app/sass/styles.scss (Line 7 of app/sass/_custom.scss: Invalid CSS after "...lude background": expected "}", was ": linear-gradie...")
+2012-11-14 16:46:39 overwrite public/css/styles.css 
+2012-11-14 16:47:47     error app/sass/styles.scss (Line 7 of app/sass/_custom.scss: Invalid CSS after "...ransparent 2px)": expected ")", was ";")
+2012-11-14 16:47:47 overwrite public/css/styles.css 
+2012-11-14 16:48:12     error app/sass/styles.scss (Line 7 of app/sass/_custom.scss: Invalid CSS after "...ransparent 2px)": expected ")", was ";")
+2012-11-14 16:48:12 identical public/css/styles.css 
+2012-11-14 16:49:32     error app/sass/styles.scss (Line 13 of app/sass/_custom.scss: Invalid CSS after "}min-height:": expected pseudoclass or pseudoelement, was " 100%;")
+2012-11-14 16:49:32 overwrite public/css/styles.css 
+2012-11-14 16:49:40 overwrite public/css/styles.css 
+2012-11-14 16:50:18 overwrite public/css/styles.css 
+2012-11-14 16:55:04    create public/css/styles.css 
+2012-11-14 16:57:20     error app/sass/styles.scss (Line 31 of app/sass/_custom.scss: Invalid CSS after "...px -1px / 20px,": expected expression (e.g. 1px, bold), was "}")
+2012-11-14 16:57:20 overwrite public/css/styles.css 
+2012-11-14 16:57:40 overwrite public/css/styles.css 
+2012-11-14 16:57:43 overwrite public/css/styles.css 
+2012-11-14 16:58:01 overwrite public/css/styles.css 
+2012-11-14 16:58:27 overwrite public/css/styles.css 
+2012-11-14 16:58:38 identical public/css/styles.css 
+2012-11-14 16:59:04 overwrite public/css/styles.css 
+2012-11-14 16:59:21 overwrite public/css/styles.css 
+2012-11-14 16:59:48 overwrite public/css/styles.css 
+2012-11-14 17:04:30 overwrite public/css/styles.css 
+2012-11-14 17:04:58 overwrite public/css/styles.css 
+2012-11-14 17:06:06 overwrite public/css/styles.css 
+2012-11-14 17:07:20 identical public/css/styles.css 
+2012-11-14 17:09:32     error app/sass/styles.scss (Line 35 of app/sass/_custom.scss: Undefined mixin 'border-radius'.)
+2012-11-14 17:09:32 overwrite public/css/styles.css 
+2012-11-14 17:09:35     error app/sass/styles.scss (Line 35 of app/sass/_custom.scss: Undefined mixin 'border-radius'.)
+2012-11-14 17:09:35 identical public/css/styles.css 
+2012-11-14 17:10:11 overwrite public/css/styles.css 
+2012-11-14 17:20:57 overwrite public/css/styles.css 
+2012-11-14 17:21:06 overwrite public/css/styles.css 
+2012-11-14 17:28:29 overwrite public/css/styles.css 
+2012-11-14 17:28:48 overwrite public/css/styles.css 

@@ -1,12 +1,15 @@
-// I gather this file is a starting point for the project.
-@import "bootstrap";
+@import "compass";
+@import "custom";
 
+// I gather this file is a starting point for the project.
+//@import "bootstrap";
 
 // Include responsive Bootstrap styles
-@import "bootstrap-responsive";
+//@import "bootstrap-responsive";
 
+@import "compass/css3";
+@import "compass/layout";
 
 // Include custom styles
-@import "custom";
 
 

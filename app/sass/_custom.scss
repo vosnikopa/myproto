@@ -1,6 +1,6 @@
 
-body {
-background-color: rgba(255,255,255,.3);
+.blueprint-bg {
+background-color: #269;
 background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
 background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 background-image: -webkit-linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
@@ -27,20 +27,29 @@ background-image: linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
                  linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px) -2px -2px / 100px,
                  linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px) -1px -1px / 20px,
                  linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px) -1px -1px / 20px,
-                 #269;
-behavior: url(/PIE.htc);
+                 rgba(255,255,255,.1);
 
+  
+}
+.bodyasdfasdf{
+ @include border-radius(4px);
 
 }
 
 html { 
-/*  background: url(../../public/img/bg.png) no-repeat center center fixed; 
+ /*background: url(../../public/img/bg.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;*/
   background: url(../../public/img/otis_redding.png) repeat; 
+
 }
 
-
+body {
+    background-color: rgba(255, 255, 255, 0.06);
+    padding-top: 60px;
+    padding-bottom: 40px;
+    
+}
 
