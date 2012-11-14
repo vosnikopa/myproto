@@ -6849,7 +6849,7 @@ a.label:hover, a.badge:hover {
 @media (max-width: 767px) {
   /* line 9, ../../app/sass/compass_twitter_bootstrap/_responsive-767px-max.scss */
   body {
-    padding-top: 60px;
+    padding-top: 0!important;
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -8194,7 +8194,7 @@ a.label:hover, a.badge:hover {
     overflow: visible !important;
   }
 }
-/* line 2, ../../app/sass/_custom.scss */
+/* line 4, ../../app/sass/_custom.scss */
 .blueprint-bg {
   background-color: #269;
   background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
@@ -8207,7 +8207,7 @@ a.label:hover, a.badge:hover {
   -pie-background: linear-gradient(rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(0, rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, linear-gradient(0, rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, rgba(255, 255, 255, 0.1);
 }
 
-/* line 34, ../../app/sass/_custom.scss */
+/* line 36, ../../app/sass/_custom.scss */
 .bodyasdfasdf {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -8216,7 +8216,7 @@ a.label:hover, a.badge:hover {
   border-radius: 4px;
 }
 
-/* line 39, ../../app/sass/_custom.scss */
+/* line 41, ../../app/sass/_custom.scss */
 html {
   /*background: url(../../public/img/bg.png) no-repeat center center fixed; 
    -webkit-background-size: cover;
@@ -8226,9 +8226,14 @@ html {
   background: url(../../public/img/otis_redding.png) repeat;
 }
 
-/* line 50, ../../app/sass/_custom.scss */
+/* line 52, ../../app/sass/_custom.scss */
 body {
   background-color: rgba(255, 255, 255, 0.06);
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+/* line 59, ../../app/sass/_custom.scss */
+.hero-unit {
+  /*  @include vertical-gradient(#000,#fff);*/
 }
