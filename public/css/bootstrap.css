@@ -1,39 +1,46 @@
 
 body {
-background-color: #269;
+background-color: rgba(255,255,255,.3);
 background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
 background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
-background-image: -webkit-linear-gradient(white 2px, transparent 2px),
-                  -webkit-linear-gradient(0, white 2px, transparent 2px),
-                  -webkit-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
-                  -webkit-linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
-background-image: -moz-linear-gradient(white 2px, transparent 2px),
-                  -moz-linear-gradient(0, white 2px, transparent 2px),
-                  -moz-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
-                  -moz-linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
-background-image: -ms-linear-gradient(white 2px, transparent 2px),
-                  -ms-linear-gradient(0, white 2px, transparent 2px),
-                  -ms-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
-                  -ms-linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
-background-image: -o-linear-gradient(white 2px, transparent 2px),
-                  -o-linear-gradient(0, white 2px, transparent 2px),
-                  -o-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
-                  -o-linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
-background-image: linear-gradient(white 2px, transparent 2px),
-                  linear-gradient(0, white 2px, transparent 2px),
-                  linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
-                  linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px);
--pie-background: linear-gradient(white 2px, transparent 2px) -2px -2px / 100px,
-                 linear-gradient(0, white 2px, transparent 2px) -2px -2px / 100px,
-                 linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px) -1px -1px / 20px,
-                 linear-gradient(0, rgba(255,255,255,.3) 1px, transparent 1px) -1px -1px / 20px,
+background-image: -webkit-linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
+                  -webkit-linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px),
+                  -webkit-linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px),
+                  -webkit-linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px);
+background-image: -moz-linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
+                  -moz-linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px),
+                  -moz-linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px),
+                  -moz-linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px);
+background-image: -ms-linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
+                  -ms-linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px),
+                  -ms-linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px),
+                  -ms-linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px);
+background-image: -o-linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
+                  -o-linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px),
+                  -o-linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px),
+                  -o-linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px);
+background-image: linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
+                  linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px),
+                  linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px),
+                  linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px);
+-pie-background: linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px) -2px -2px / 100px,
+                 linear-gradient(0, rgba(255,255,255,.1) 2px, transparent 2px) -2px -2px / 100px,
+                 linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px) -1px -1px / 20px,
+                 linear-gradient(0, rgba(255,255,255,.1) 1px, transparent 1px) -1px -1px / 20px,
                  #269;
 behavior: url(/PIE.htc);
 
-  
+
 }
 
-
+html { 
+/*  background: url(../../public/img/bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  background: url(../../public/img/otis_redding.png) repeat; 
+}
 
 
 
@@ -189,7 +196,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #787979;
-  background-color: #e5e6e7;
+ /* background-color: #e5e6e7;*/
 }
 a {
   color: #2770a8;
