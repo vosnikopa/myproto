@@ -1,4 +1,5 @@
 
+@import "compass";
 
 
 .blueprint-bg {
@@ -34,7 +35,7 @@ background-image: linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
   
 }
 .bodyasdfasdf{
- @include border-radius(4px);
+ @include border-radius(14px);
 
 }
 
@@ -57,5 +58,30 @@ body {
 }
 
 .hero-unit{
-/*  @include vertical-gradient(#000,#fff);*/
+    /*@include border-radius(34px);*/
 }
+
+
+
+
+.hero-unit {
+  @include background-image(linear-gradient(white, #aaaaaa));
+  /*background-color: #7d7e7d;
+    @include filter-gradient(#7d7e7d, #0e0e0e, vertical);
+    @include background-image(linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%));*/
+}
+
+
+#sidebar {
+  
+}
+p %link {
+  color: blue;
+}
+
+a         { @extend %link; }
+span.link { @extend %link; }
+button    { @extend %link; }
+
+
+

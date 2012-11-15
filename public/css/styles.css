@@ -8194,7 +8194,7 @@ a.label:hover, a.badge:hover {
     overflow: visible !important;
   }
 }
-/* line 4, ../../app/sass/_custom.scss */
+/* line 5, ../../app/sass/_custom.scss */
 .blueprint-bg {
   background-color: #269;
   background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
@@ -8207,16 +8207,16 @@ a.label:hover, a.badge:hover {
   -pie-background: linear-gradient(rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(0, rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, linear-gradient(0, rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, rgba(255, 255, 255, 0.1);
 }
 
-/* line 36, ../../app/sass/_custom.scss */
+/* line 37, ../../app/sass/_custom.scss */
 .bodyasdfasdf {
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  -o-border-radius: 4px;
-  border-radius: 4px;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  border-radius: 14px;
 }
 
-/* line 41, ../../app/sass/_custom.scss */
+/* line 42, ../../app/sass/_custom.scss */
 html {
   /*background: url(../../public/img/bg.png) no-repeat center center fixed; 
    -webkit-background-size: cover;
@@ -8226,14 +8226,31 @@ html {
   background: url(../../public/img/otis_redding.png) repeat;
 }
 
-/* line 52, ../../app/sass/_custom.scss */
+/* line 53, ../../app/sass/_custom.scss */
 body {
   background-color: rgba(255, 255, 255, 0.06);
   padding-top: 60px;
   padding-bottom: 40px;
 }
 
-/* line 59, ../../app/sass/_custom.scss */
+/* line 60, ../../app/sass/_custom.scss */
 .hero-unit {
-  /*  @include vertical-gradient(#000,#fff);*/
+  /*@include border-radius(34px);*/
+}
+
+/* line 67, ../../app/sass/_custom.scss */
+.hero-unit {
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #aaaaaa));
+  background-image: -webkit-linear-gradient(#ffffff, #aaaaaa);
+  background-image: -moz-linear-gradient(#ffffff, #aaaaaa);
+  background-image: -o-linear-gradient(#ffffff, #aaaaaa);
+  background-image: linear-gradient(#ffffff, #aaaaaa);
+  /*background-color: #7d7e7d;
+    @include filter-gradient(#7d7e7d, #0e0e0e, vertical);
+    @include background-image(linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%));*/
+}
+
+/* line 78, ../../app/sass/_custom.scss */
+p a, p span.link, p button {
+  color: blue;
 }
