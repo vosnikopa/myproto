@@ -8194,7 +8194,12 @@ a.label:hover, a.badge:hover {
     overflow: visible !important;
   }
 }
-/* line 5, ../../app/sass/_custom.scss */
+/* line 7, ../../app/sass/_custom.scss */
+div.hero-unit {
+  -webkit-transform: translate3d(0, 0, 0);
+}
+
+/* line 10, ../../app/sass/_custom.scss */
 .blueprint-bg {
   background-color: #269;
   background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
@@ -8207,7 +8212,7 @@ a.label:hover, a.badge:hover {
   -pie-background: linear-gradient(rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(0, rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, linear-gradient(0, rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, rgba(255, 255, 255, 0.1);
 }
 
-/* line 37, ../../app/sass/_custom.scss */
+/* line 42, ../../app/sass/_custom.scss */
 .bodyasdfasdf {
   -webkit-border-radius: 14px;
   -moz-border-radius: 14px;
@@ -8216,7 +8221,7 @@ a.label:hover, a.badge:hover {
   border-radius: 14px;
 }
 
-/* line 42, ../../app/sass/_custom.scss */
+/* line 47, ../../app/sass/_custom.scss */
 html {
   /*background: url(../../public/img/bg.png) no-repeat center center fixed; 
    -webkit-background-size: cover;
@@ -8226,19 +8231,19 @@ html {
   background: url(../../public/img/otis_redding.png) repeat;
 }
 
-/* line 53, ../../app/sass/_custom.scss */
+/* line 58, ../../app/sass/_custom.scss */
 body {
   background-color: rgba(255, 255, 255, 0.06);
   padding-top: 60px;
   padding-bottom: 40px;
 }
 
-/* line 60, ../../app/sass/_custom.scss */
+/* line 65, ../../app/sass/_custom.scss */
 .hero-unit {
   /*@include border-radius(34px);*/
 }
 
-/* line 67, ../../app/sass/_custom.scss */
+/* line 72, ../../app/sass/_custom.scss */
 .hero-unit {
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #aaaaaa));
   background-image: -webkit-linear-gradient(#ffffff, #aaaaaa);
@@ -8250,7 +8255,7 @@ body {
     @include background-image(linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%));*/
 }
 
-/* line 78, ../../app/sass/_custom.scss */
+/* line 83, ../../app/sass/_custom.scss */
 p a, p span.link, p button {
   color: blue;
 }
@@ -8258,7 +8263,7 @@ p a, p span.link, p button {
 /*
 work exmaples round image hover effect
 */
-/* line 91, ../../app/sass/_custom.scss */
+/* line 96, ../../app/sass/_custom.scss */
 .workexamples {
   /*body {
     font-family: Cambria, Georgia, serif;
@@ -8306,7 +8311,7 @@ work exmaples round image hover effect
     text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
   }*/
 }
-/* line 92, ../../app/sass/_custom.scss */
+/* line 97, ../../app/sass/_custom.scss */
 .workexamples .ch-item {
   width: 100%;
   height: 100%;
@@ -8320,7 +8325,7 @@ work exmaples round image hover effect
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-/* line 106, ../../app/sass/_custom.scss */
+/* line 111, ../../app/sass/_custom.scss */
 .workexamples .ch-info {
   position: absolute;
   background: rgba(63, 147, 147, 0.8);
@@ -8340,7 +8345,7 @@ work exmaples round image hover effect
   transform: scale();
   -webkit-backface-visibility: hidden;
 }
-/* line 126, ../../app/sass/_custom.scss */
+/* line 131, ../../app/sass/_custom.scss */
 .workexamples .ch-info h3 {
   color: #fff;
   text-transform: uppercase;
@@ -8352,7 +8357,7 @@ work exmaples round image hover effect
   font-family: 'Open Sans', Arial, sans-serif;
   text-shadow: 0 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.3);
 }
-/* line 138, ../../app/sass/_custom.scss */
+/* line 143, ../../app/sass/_custom.scss */
 .workexamples .ch-info p {
   color: #fff;
   padding: 10px 5px;
@@ -8367,7 +8372,7 @@ work exmaples round image hover effect
   -o-transition: all 1s ease-in-out 0.4s;
   transition: all 1s ease-in-out 0.4s;
 }
-/* line 153, ../../app/sass/_custom.scss */
+/* line 158, ../../app/sass/_custom.scss */
 .workexamples .ch-info p a {
   display: block;
   color: #fff;
@@ -8380,16 +8385,16 @@ work exmaples round image hover effect
   padding-top: 4px;
   font-family: 'Open Sans', Arial, sans-serif;
 }
-/* line 166, ../../app/sass/_custom.scss */
+/* line 171, ../../app/sass/_custom.scss */
 .workexamples .ch-info p a:hover {
   color: #fff222;
   color: rgba(255, 242, 34, 0.8);
 }
-/* line 171, ../../app/sass/_custom.scss */
+/* line 176, ../../app/sass/_custom.scss */
 .workexamples .ch-item:hover {
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1), 0 1px 2px rgba(0, 0, 0, 0.1);
 }
-/* line 173, ../../app/sass/_custom.scss */
+/* line 178, ../../app/sass/_custom.scss */
 .workexamples .ch-item:hover .ch-info {
   opacity: 1;
   -webkit-transform: scale(1);
@@ -8398,11 +8403,11 @@ work exmaples round image hover effect
   -o-transform: scale(1);
   transform: scale(1);
 }
-/* line 182, ../../app/sass/_custom.scss */
+/* line 187, ../../app/sass/_custom.scss */
 .workexamples .ch-item:hover .ch-info p {
   opacity: 1;
 }
-/* line 231, ../../app/sass/_custom.scss */
+/* line 236, ../../app/sass/_custom.scss */
 .workexamples .support-note span {
   color: #ac375d;
   font-size: 16px;
@@ -8411,14 +8416,14 @@ work exmaples round image hover effect
   text-align: center;
   padding: 5px 0;
 }
-/* line 243, ../../app/sass/_custom.scss */
+/* line 248, ../../app/sass/_custom.scss */
 .workexamples .no-cssanimations .support-note span.no-cssanimations,
 .workexamples .no-csstransforms .support-note span.no-csstransforms,
 .workexamples .no-csstransforms3d .support-note span.no-csstransforms3d,
 .workexamples .no-csstransitions .support-note span.no-csstransitions {
   display: block;
 }
-/* line 245, ../../app/sass/_custom.scss */
+/* line 250, ../../app/sass/_custom.scss */
 .workexamples .ch-grid {
   margin: 20px 0 0 0;
   padding: 0;
@@ -8427,24 +8432,24 @@ work exmaples round image hover effect
   text-align: center;
   width: 100%;
 }
-/* line 255, ../../app/sass/_custom.scss */
+/* line 260, ../../app/sass/_custom.scss */
 .workexamples .ch-grid:after,
 .workexamples .ch-item:before {
   content: '';
   display: table;
 }
-/* line 260, ../../app/sass/_custom.scss */
+/* line 265, ../../app/sass/_custom.scss */
 .workexamples .ch-grid:after {
   clear: both;
 }
-/* line 262, ../../app/sass/_custom.scss */
+/* line 267, ../../app/sass/_custom.scss */
 .workexamples .ch-grid li {
   width: 220px;
   height: 220px;
   display: inline-block;
   margin: 20px;
 }
-/* line 269, ../../app/sass/_custom.scss */
+/* line 274, ../../app/sass/_custom.scss */
 .workexamples * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;

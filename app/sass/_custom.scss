@@ -2,6 +2,11 @@
 @import "compass";
 
 
+
+
+div.hero-unit {
+    @include enable-hardware-acceleration
+}
 .blueprint-bg {
 background-color: #269;
 background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
