@@ -1,12 +1,5 @@
-
 @import "compass";
-
-
-
-
-div.hero-unit {
-    @include enable-hardware-acceleration
-}
+/*////            ////*/
 .blueprint-bg {
 background-color: #269;
 background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
@@ -39,10 +32,6 @@ background-image: linear-gradient(rgba(255,255,255,.1) 2px, transparent 2px),
 
   
 }
-.bodyasdfasdf{
- @include border-radius(14px);
-
-}
 
 html { 
  /*background: url(../../public/img/bg.png) no-repeat center center fixed; 
@@ -59,17 +48,13 @@ body {
     background-color: rgba(255, 255, 255, 0.06);
     padding-top: 60px;
     padding-bottom: 40px;
-    
+    /*border-radius: 40px;*/
+/*    @include border-radius(44px);*/
 }
-
-.hero-unit{
-    /*@include border-radius(34px);*/
-}
-
-
 
 
 .hero-unit {
+  @include border-radius(40px 0 40px 0);
   @include background-image(linear-gradient(white, #aaaaaa));
   /*background-color: #7d7e7d;
     @include filter-gradient(#7d7e7d, #0e0e0e, vertical);
