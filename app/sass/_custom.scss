@@ -40,38 +40,9 @@ html {
   -o-background-size: cover;
   background-size: cover;*/
   background: url(../../public/img/otis_redding.png) repeat; 
-
 }
 
 
-body {
-    background-color: rgba(255, 255, 255, 0.06);
-    padding-top: 60px;
-    padding-bottom: 40px;
-    /*border-radius: 40px;*/
-/*    @include border-radius(44px);*/
-}
-
-
-.hero-unit {
-  @include border-radius(40px 0 40px 0);
-  @include background-image(linear-gradient(white, #aaaaaa));
-  /*background-color: #7d7e7d;
-    @include filter-gradient(#7d7e7d, #0e0e0e, vertical);
-    @include background-image(linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%));*/
-}
-
-
-#sidebar {
-  
-}
-p %link {
-  color: darkgrey;
-}
-
-a         { @extend %link; }
-span.link { @extend %link; }
-button    { @extend %link; }
 
 
 

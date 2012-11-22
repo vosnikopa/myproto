@@ -32,8 +32,9 @@ $purple:                #7a43b6 !default;
 
 // Scaffolding
 // -------------------------
-$bodyBackground:        $white !default;
+$bodyBackground:        rgba(255, 255, 255, 0.06);
 $textColor:             $grayDark !default;
+$navigationHeight:		60px;
 
 
 // Links

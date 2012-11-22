@@ -11,7 +11,10 @@
   line-height: $baseLineHeight * 1.5;
   color: $heroUnitLeadColor;
   background-color: $heroUnitBackground;
-  @include ctb-border-radius(6px);
+  @include background-image(linear-gradient(white, #aaaaaa));
+  @include border-radius(40px 0 40px 0);
+
+  //@include ctb-border-radius(6px);
   h1 {
     margin-bottom: 0;
     font-size: 60px;
@@ -23,3 +26,5 @@
     line-height: $baseLineHeight * 1.5; // Reset since we specify in type.less
   }
 }
+
+
