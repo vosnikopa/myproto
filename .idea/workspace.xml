@@ -2,164 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e57757-710b-4e75-bac3-c62a2ccfa595" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/010baa5899f9f73f38bce42ece3df779965fc4e2/_alternating-rows-and-columns.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/010baa5899f9f73f38bce42ece3df779965fc4e2/_borders.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/010baa5899f9f73f38bce42ece3df779965fc4e2/_scaffolding.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_accessibility.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_animation.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_color.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_forms.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_images.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_layout.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_legacy.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_mobile.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_print.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_responsive.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/0397e8cc237c4b65d305eca4fde393bd6d8ff1d8/_text.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/21c9a11f1b9907791b4b29623a9332756f18ed4f/_rgba.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2ab4dfaaee0ae60fcee13560a8b896835d49e818/_stitch.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/385fafdd0163ab5a5dc138dcf1f979db7d03bd13/_grid-background.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/385fafdd0163ab5a5dc138dcf1f979db7d03bd13/_sticky-footer.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/385fafdd0163ab5a5dc138dcf1f979db7d03bd13/_stretching.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/48c8d4e751cbf43f5c995d2895c26fb8afef540a/_css3.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/48c8d4e751cbf43f5c995d2895c26fb8afef540a/_layout.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/48c8d4e751cbf43f5c995d2895c26fb8afef540a/_support.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/48c8d4e751cbf43f5c995d2895c26fb8afef540a/_typography.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/48c8d4e751cbf43f5c995d2895c26fb8afef540a/_utilities.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/5265feda3d1c0169894965fa964909dd627e92cf/_utilities.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/57608ad923f78e047f6c69e241f11e3b7e716f35/_ellipsis.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/57608ad923f78e047f6c69e241f11e3b7e716f35/_force-wrap.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/57608ad923f78e047f6c69e241f11e3b7e716f35/_nowrap.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/57608ad923f78e047f6c69e241f11e3b7e716f35/_replacement.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/583a947c6cad3c4515e37e330f959fb245e6fd16/_clearfix.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/583a947c6cad3c4515e37e330f959fb245e6fd16/_float.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/583a947c6cad3c4515e37e330f959fb245e6fd16/_hacks.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/583a947c6cad3c4515e37e330f959fb245e6fd16/_min.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/583a947c6cad3c4515e37e330f959fb245e6fd16/_reset.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/583a947c6cad3c4515e37e330f959fb245e6fd16/_tag-cloud.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/623085d6d21d7f857a013f2f6b078f5cb8db6cbb/_bullets.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/623085d6d21d7f857a013f2f6b078f5cb8db6cbb/_horizontal-list.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/623085d6d21d7f857a013f2f6b078f5cb8db6cbb/_inline-block-list.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/623085d6d21d7f857a013f2f6b078f5cb8db6cbb/_inline-list.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/628528d7b852f7a109ba03cca05cef16d0814f5a/_color.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/628528d7b852f7a109ba03cca05cef16d0814f5a/_general.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/628528d7b852f7a109ba03cca05cef16d0814f5a/_sprites.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/628528d7b852f7a109ba03cca05cef16d0814f5a/_tables.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/6310a1d9d0549c88af7dcfce15f1d2ef9def3061/_hacks.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/6310a1d9d0549c88af7dcfce15f1d2ef9def3061/_has-layout.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/6310a1d9d0549c88af7dcfce15f1d2ef9def3061/_inline-block.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/680f69ee9923782d0556c31ce0d4a4088679fa54/_image-rendering.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/680f69ee9923782d0556c31ce0d4a4088679fa54/_image-replace.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/680f69ee9923782d0556c31ce0d4a4088679fa54/_inline-icon.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/6dd369cee7900977332c7389c2ea1966a8e07502/_hover-link.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/6dd369cee7900977332c7389c2ea1966a8e07502/_link-colors.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/6dd369cee7900977332c7389c2ea1966a8e07502/_unstyled-link.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_absolute.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_center.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_clear-floats.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_columns.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_float-children.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_force-scrollbars.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_media.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_move.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_pseudo-elements.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_relative.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/72229fc7216799162b177a7f7a04c3250899801b/_simple-gradient.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_appearance.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_background-clip.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_background-origin.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_background-size.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_border-radius.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_box-shadow.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_box-sizing.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_box.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_columns.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_filter.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_font-face.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_hyphenation.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_images.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_inline-block.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_opacity.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_regions.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_shared.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_text-shadow.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_transform.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/7e20b5af6d073bb2f60c261d32cad3d3ee26a8a8/_transition.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/86c6cf75a845a3d2c0cd743b1bfb90cf01874ed3/_media.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/8c1034f95432d76e4f21895e437cf819e9eb44a9/_compass.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/8d60f78fd3a60d8dcc7732d965ce23d3ec4499b4/_search-fields.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/9720c45baaeb6872e44bf054a758c36c67db408c/_links.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/9720c45baaeb6872e44bf054a758c36c67db408c/_lists.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/9720c45baaeb6872e44bf054a758c36c67db408c/_text.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/9720c45baaeb6872e44bf054a758c36c67db408c/_vertical_rhythm.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/9c7e342224fb5ea60b48d60f24b7cb777fa0ea6b/_append-content.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/9c7e342224fb5ea60b48d60f24b7cb777fa0ea6b/_text.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/a65fb5bad1ab4d75896a124dc952a5c104d2488f/_base.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/a65fb5bad1ab4d75896a124dc952a5c104d2488f/_sprite-img.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/a738989deac1bde28eb2c04eecf13d8c4eb1e460/_patterns.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/a738989deac1bde28eb2c04eecf13d8c4eb1e460/_utilities.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/b83b01b9be21a90b6a3c824aedc834efeac3cdf4/_font-stacks.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/b83b01b9be21a90b6a3c824aedc834efeac3cdf4/_hyphens.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/b83b01b9be21a90b6a3c824aedc834efeac3cdf4/_justify.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/b83b01b9be21a90b6a3c824aedc834efeac3cdf4/_rem.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/b83b01b9be21a90b6a3c824aedc834efeac3cdf4/_selection.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/b83b01b9be21a90b6a3c824aedc834efeac3cdf4/_text-rendering.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/bd3276ad723c2eaff8f1ebec49f5fb1f3f47f211/_hardware-acceleration.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/bd3276ad723c2eaff8f1ebec49f5fb1f3f47f211/_keyframes.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/bd3276ad723c2eaff8f1ebec49f5fb1f3f47f211/_timing-functions.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/cc2d24272736fad8cc6c5ed646ab06f23e458825/_contrast.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/ea3ddf34c6c101a78a556029d630aa339284095c/_hide-content.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/ee21ceb56bbdffc916eaa1b2ccdb6f55256b2eb4/_fixed-text.scssc" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_accordion.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_accordion.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_alerts.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_alerts.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_breadcrumbs.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_breadcrumbs.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_button-groups.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_button-groups.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_buttons.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_buttons.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_carousel.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_carousel.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_close.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_close.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_code.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_code.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_component-animations.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_component-animations.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_dropdowns.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_dropdowns.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_font-awesome.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_font-awesome.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_forms.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_forms.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_grid.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_grid.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_hero-unit.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_hero-unit.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_labels-badges.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_labels-badges.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_layouts.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_layouts.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_mixins.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_mixins.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_modals.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_modals.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_navbar.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_navbar.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_navs.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_navs.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_pager.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_pager.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_pagination.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_pagination.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_popovers.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_popovers.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_progress-bars.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_progress-bars.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_reset.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_reset.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-1200px-min.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-1200px-min.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-767px-max.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-767px-max.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-768px-979px.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-768px-979px.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-navbar.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-navbar.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-utilities.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_responsive-utilities.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_scaffolding.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_scaffolding.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_tables.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_tables.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_thumbnails.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_thumbnails.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_tooltip.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_tooltip.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_type.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_type.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_utilities.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_utilities.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_variables.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_variables.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_wells.scssc" afterPath="$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_wells.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/_compass_twitter_bootstrap_awesome.scssc" afterPath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/_compass_twitter_bootstrap_awesome.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/_compass_twitter_bootstrap_responsive.scssc" afterPath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/_compass_twitter_bootstrap_responsive.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/_custom.scssc" afterPath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/_custom.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/styles.scssc" afterPath="$PROJECT_DIR$/.sass-cache/d674ff6ec6cad8f4c93dd1390081c6232fbb5b16/styles.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_custom.scss" afterPath="$PROJECT_DIR$/app/sass/_custom.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_hero-unit.scss" afterPath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_hero-unit.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_responsive-navbar.scss" afterPath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_responsive-navbar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_scaffolding.scss" afterPath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_scaffolding.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_variables.scss" afterPath="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/styles.scss" afterPath="$PROJECT_DIR$/app/sass/styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.css" afterPath="$PROJECT_DIR$/public/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/work.html" afterPath="$PROJECT_DIR$/app/templates/work.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coffeescript/helloworld.coffee" afterPath="$PROJECT_DIR$/coffeescript/helloworld.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coffeescript/helloworld.js" afterPath="$PROJECT_DIR$/coffeescript/helloworld.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="myproto.site44.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -181,64 +27,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.40549543">
       <split-first>
         <leaf>
-          <file leaf-file-name="helloworld.coffee" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="helloworld.coffee" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.coffee">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="17" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="styles.scss" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/sass/styles.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_custom.scss" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/sass/_custom.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="175" column="18" selection-start="5698" selection-end="5698" vertical-scroll-proportion="0.534413">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/config.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_responsive-navbar.scss" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_responsive-navbar.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="28" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="helloworld.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="4" selection-start="242" selection-end="243" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="7506" vertical-scroll-proportion="-0.0">
+                <state line="12" column="84" selection-start="456" selection-end="456" vertical-scroll-proportion="0.14646053">
                   <folding />
                 </state>
               </provider>
@@ -248,28 +40,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="helloworld.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="helloworld.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="4" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_scaffolding.scss" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_scaffolding.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="32" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_variables.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="189" column="36" selection-start="6117" selection-end="6117" vertical-scroll-proportion="0.33248407">
+                <state line="9" column="4" selection-start="235" selection-end="235" vertical-scroll-proportion="0.10869565">
                   <folding />
                 </state>
               </provider>
@@ -291,7 +65,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/coffeescript/helloworld.coffee" />
         <option value="$PROJECT_DIR$/public/css/bootstrap-responsive.css" />
         <option value="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_responsive-navbar.scss" />
         <option value="$PROJECT_DIR$/config.rb" />
@@ -301,15 +74,42 @@
         <option value="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_variables.scss" />
         <option value="$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_scaffolding.scss" />
         <option value="$PROJECT_DIR$/app/sass/_custom.scss" />
+        <option value="$PROJECT_DIR$/coffeescript/helloworld.coffee" />
+        <option value="$PROJECT_DIR$/coffeescript/helloworld.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1046" />
-    <option name="y" value="22" />
+    <option name="y" value="28" />
     <option name="width" value="1511" />
     <option name="height" value="1390" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -429,7 +229,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="PublishConfig" serverName="myproto" serverId="fc2f052c-3ea2-4ccb-a9e4-5853e3a3102d">
@@ -447,6 +251,24 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <created>1353578193045</created>
@@ -455,15 +277,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1046" y="22" width="1511" height="1390" extended-state="0" />
+    <frame x="1046" y="28" width="1511" height="1390" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939324" sideWeight="0.9993174" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939324" sideWeight="0.9993174" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020478" sideWeight="0.6706068" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18020478" sideWeight="0.6706068" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -527,30 +349,11 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="7506" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="242" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_responsive-navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7985" column="19" selection-start="225439" selection-end="225440" vertical-scroll-proportion="0.40268457">
@@ -565,13 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_hero-unit.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="0" selection-start="641" selection-end="641" vertical-scroll-proportion="0.38693035">
@@ -579,30 +375,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.sass-cache/246db7920b94a7693b94053da4f840f4a3718099/_variables.scssc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="512" column="76" selection-start="17683" selection-end="17693" vertical-scroll-proportion="0.37070063">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_scaffolding.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -617,6 +392,55 @@
     <entry file="file://$PROJECT_DIR$/app/sass/_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="175" column="18" selection-start="5698" selection-end="5698" vertical-scroll-proportion="0.534413">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="0.038022812">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_responsive-navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="286" selection-end="286" vertical-scroll-proportion="0.24714829">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="7506" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/compass_twitter_bootstrap/_scaffolding.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="157" selection-end="157" vertical-scroll-proportion="0.093711466">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="84" selection-start="456" selection-end="456" vertical-scroll-proportion="0.14646053">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coffeescript/helloworld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="235" selection-end="235" vertical-scroll-proportion="0.10869565">
           <folding />
         </state>
       </provider>
