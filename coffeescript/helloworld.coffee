@@ -61,15 +61,110 @@
 # #  = equals to
 # cupsOfCoffee ?= 0
 
-if coffeePot?
-	coffeePot.brew()
-# #  = equals to
-coffeePot?.brew()
+# if coffeePot?
+# 	coffeePot.brew()
+# # #  = equals to
+# coffeePot?.brew()
 
-# only call function if it exists
-vehicle.start_engine?().shift_gear?()
+# # only call function if it exists
+# vehicle.start_engine?().shift_gear?()
 
 # End of level 3
+
+
+
+# storeLocations = ['Orlando', 'Winter Park', 'Sanford']
+
+# "#{loc}, FL" for loc in storeLocations
+
+
+# storeLocations = ("#{lco}, FL" for loc in storeLocations)
+
+# storeLocations = "#{lco}, FL" for loc in storeLocations
+
+
+# searchLocations = (brand, cities...) ->
+# 	"looking for #{brand} in #{cities.join(',')}"
+
+# coffee =
+# 	name: 'French'
+# 	strength: 1
+# 	brew: -> alert("brewing #{@name}")
+# 	pour: (amount=1) ->
+# 		if amount is 1
+# 			"Poured a single cup"
+# 		else
+# 			"Poured #{amount} of cups"
+
+
+
+# coffees =
+# 	french:
+# 		strength: 1
+# 		in_stock: 20
+# 	italian:
+# 		strength: 2
+# 		in_stock: 12
+# 	decaf:
+# 		strength: 0
+# 		in_stock: 8
+
+
+# coffees.italian.in_stock
+
+# END OF PART 4 -- START OF PART 5
+
+# ($ "#tabs ul li a").bind
+
+listOfClasses =
+	$('[class^=""],[id^=""]').css('color', 'red')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
