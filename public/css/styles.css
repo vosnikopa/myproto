@@ -8203,7 +8203,228 @@ a.label:hover, a.badge:hover {
   }
 }
 /*////            ////*/
-/* line 3, ../../app/sass/_custom.scss */
+/* line 274, social/*.png */
+.social-sprite, .social-blogger, .social-delicious, .social-digg, .social-facebook, .social-feed, .social-flickr, .social-friendfeed, .social-friendster, .social-furl, .social-google, .social-lastfm, .social-linkedin, .social-livejournal, .social-magnolia, .social-mixx, .social-myspace, .social-netvibes, .social-newsvine, .social-picasa, .social-pownce, .social-reddit, .social-stumbleupon, .social-technorati, .social-twitter, .social-vimeo, .social-webshots, .social-wordpress, .social-yahoo, .social-yelp, .social-youtube {
+  background: url('/public/img/social-s69e4b21713.png') no-repeat;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-blogger {
+  background-position: 0 -1152px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-delicious {
+  background-position: 0 -1392px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-digg {
+  background-position: 0 -672px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-facebook {
+  background-position: 0 -1248px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-feed {
+  background-position: 0 -576px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-flickr {
+  background-position: 0 -1296px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-friendfeed {
+  background-position: 0 -624px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-friendster {
+  background-position: 0 -480px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-furl {
+  background-position: 0 -1104px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-google {
+  background-position: 0 -432px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-lastfm {
+  background-position: 0 -528px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-linkedin {
+  background-position: 0 -960px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-livejournal {
+  background-position: 0 -48px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-magnolia {
+  background-position: 0 -96px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-mixx {
+  background-position: 0 -384px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-myspace {
+  background-position: 0 -912px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-netvibes {
+  background-position: 0 -1344px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-newsvine {
+  background-position: 0 -288px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-picasa {
+  background-position: 0 -720px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-pownce {
+  background-position: 0 -1200px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-reddit {
+  background-position: 0 -240px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-stumbleupon {
+  background-position: 0 0;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-technorati {
+  background-position: 0 -1008px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-twitter {
+  background-position: 0 -864px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-vimeo {
+  background-position: 0 -1056px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-webshots {
+  background-position: 0 -192px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-wordpress {
+  background-position: 0 -144px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-yahoo {
+  background-position: 0 -768px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-yelp {
+  background-position: 0 -816px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 60, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.social-youtube {
+  background-position: 0 -336px;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 12, ../../app/sass/_custom.scss */
+[class*="social-"] {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* line 18, ../../app/sass/_custom.scss */
 .blueprint-bg {
   background-color: #269;
   background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
@@ -8216,9 +8437,9 @@ a.label:hover, a.badge:hover {
   -pie-background: linear-gradient(rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(0, rgba(255, 255, 255, 0.1) 2px, transparent 2px) -2px -2px/100px, linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, linear-gradient(0, rgba(255, 255, 255, 0.1) 1px, transparent 1px) -1px -1px/20px, rgba(255, 255, 255, 0.1);
 }
 
-/* line 36, ../../app/sass/_custom.scss */
+/* line 51, ../../app/sass/_custom.scss */
 html {
-  /*background: url(../../public/img/bg.png) no-repeat center center fixed; 
+  /*background: url(../../public/img/bg.png) no-repeat center center fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -8229,7 +8450,7 @@ html {
 /*
 work exmaples round image hover effect
 */
-/* line 52, ../../app/sass/_custom.scss */
+/* line 67, ../../app/sass/_custom.scss */
 .workexamples {
   /*body {
     font-family: Cambria, Georgia, serif;
@@ -8277,7 +8498,7 @@ work exmaples round image hover effect
     text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
   }*/
 }
-/* line 53, ../../app/sass/_custom.scss */
+/* line 68, ../../app/sass/_custom.scss */
 .workexamples .ch-item {
   width: 100%;
   height: 100%;
@@ -8291,7 +8512,7 @@ work exmaples round image hover effect
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-/* line 67, ../../app/sass/_custom.scss */
+/* line 82, ../../app/sass/_custom.scss */
 .workexamples .ch-info {
   position: absolute;
   background: rgba(63, 147, 147, 0.8);
@@ -8311,7 +8532,7 @@ work exmaples round image hover effect
   transform: scale();
   -webkit-backface-visibility: hidden;
 }
-/* line 87, ../../app/sass/_custom.scss */
+/* line 102, ../../app/sass/_custom.scss */
 .workexamples .ch-info h3 {
   color: #fff;
   text-transform: uppercase;
@@ -8323,7 +8544,7 @@ work exmaples round image hover effect
   font-family: 'Open Sans', Arial, sans-serif;
   text-shadow: 0 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.3);
 }
-/* line 99, ../../app/sass/_custom.scss */
+/* line 114, ../../app/sass/_custom.scss */
 .workexamples .ch-info p {
   color: #fff;
   padding: 10px 5px;
@@ -8338,7 +8559,7 @@ work exmaples round image hover effect
   -o-transition: all 1s ease-in-out 0.4s;
   transition: all 1s ease-in-out 0.4s;
 }
-/* line 114, ../../app/sass/_custom.scss */
+/* line 129, ../../app/sass/_custom.scss */
 .workexamples .ch-info p a {
   display: block;
   color: #fff;
@@ -8351,16 +8572,16 @@ work exmaples round image hover effect
   padding-top: 4px;
   font-family: 'Open Sans', Arial, sans-serif;
 }
-/* line 127, ../../app/sass/_custom.scss */
+/* line 142, ../../app/sass/_custom.scss */
 .workexamples .ch-info p a:hover {
   color: #fff222;
   color: rgba(255, 242, 34, 0.8);
 }
-/* line 132, ../../app/sass/_custom.scss */
+/* line 147, ../../app/sass/_custom.scss */
 .workexamples .ch-item:hover {
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1), 0 1px 2px rgba(0, 0, 0, 0.1);
 }
-/* line 134, ../../app/sass/_custom.scss */
+/* line 149, ../../app/sass/_custom.scss */
 .workexamples .ch-item:hover .ch-info {
   opacity: 1;
   -webkit-transform: scale(1);
@@ -8369,11 +8590,11 @@ work exmaples round image hover effect
   -o-transform: scale(1);
   transform: scale(1);
 }
-/* line 143, ../../app/sass/_custom.scss */
+/* line 158, ../../app/sass/_custom.scss */
 .workexamples .ch-item:hover .ch-info p {
   opacity: 1;
 }
-/* line 192, ../../app/sass/_custom.scss */
+/* line 207, ../../app/sass/_custom.scss */
 .workexamples .support-note span {
   color: #ac375d;
   font-size: 16px;
@@ -8382,14 +8603,14 @@ work exmaples round image hover effect
   text-align: center;
   padding: 5px 0;
 }
-/* line 204, ../../app/sass/_custom.scss */
+/* line 219, ../../app/sass/_custom.scss */
 .workexamples .no-cssanimations .support-note span.no-cssanimations,
 .workexamples .no-csstransforms .support-note span.no-csstransforms,
 .workexamples .no-csstransforms3d .support-note span.no-csstransforms3d,
 .workexamples .no-csstransitions .support-note span.no-csstransitions {
   display: block;
 }
-/* line 206, ../../app/sass/_custom.scss */
+/* line 221, ../../app/sass/_custom.scss */
 .workexamples .ch-grid {
   margin: 20px 0 0 0;
   padding: 0;
@@ -8398,24 +8619,24 @@ work exmaples round image hover effect
   text-align: center;
   width: 100%;
 }
-/* line 216, ../../app/sass/_custom.scss */
+/* line 231, ../../app/sass/_custom.scss */
 .workexamples .ch-grid:after,
 .workexamples .ch-item:before {
   content: '';
   display: table;
 }
-/* line 221, ../../app/sass/_custom.scss */
+/* line 236, ../../app/sass/_custom.scss */
 .workexamples .ch-grid:after {
   clear: both;
 }
-/* line 223, ../../app/sass/_custom.scss */
+/* line 238, ../../app/sass/_custom.scss */
 .workexamples .ch-grid li {
   width: 220px;
   height: 220px;
   display: inline-block;
   margin: 20px;
 }
-/* line 230, ../../app/sass/_custom.scss */
+/* line 245, ../../app/sass/_custom.scss */
 .workexamples * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
