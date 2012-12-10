@@ -13,6 +13,9 @@ $social-sprite-dimensions: true;
   display: inline-block;
   vertical-align: middle;
 }
+a {
+  @include all-social-sprites;
+}
 
 
 .blueprint-bg {
