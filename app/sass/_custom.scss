@@ -15,6 +15,7 @@ $social-sprite-dimensions: true;
 }
 a {
   @include all-social-sprites;
+
 }
 
 
@@ -206,6 +207,7 @@ work exmaples round image hover effect
     color: #888;
     text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
   }*/
+
 
   .support-note span {
     color: #ac375d;
