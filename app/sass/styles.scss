@@ -18,4 +18,17 @@
 
 
 
+// sass.codeschool level 3 :  mixins
 
+@mixin button {
+	white-space: none;
+}
+
+.btn-a {
+	@include: button;
+}
+@mixin box-sizing($x) {
+	-webkit-box-sizing: $x;
+	-moz-box-sizing: $x;
+	box-sizing: $x;
+}
