@@ -25,10 +25,13 @@
 }
 
 .btn-a {
-	@include: button;
+	@include button;
 }
 @mixin box-sizing($x) {
 	-webkit-box-sizing: $x;
 	-moz-box-sizing: $x;
 	box-sizing: $x;
+}
+.contentwhatever {
+	@include box-sizing(border-box);
 }
